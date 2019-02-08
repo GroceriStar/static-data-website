@@ -3,20 +3,17 @@
 
 https://www.flaticon.com/free-icon/diet_706133
 
-**This starter has been updated for Gatsby.js V2.**
+https://github.com/GroceriStar/creative
 
-**The older V1 version of this starter can be found in the V1 branch**
 
-Gatsby.js V2 starter based on the Stellar site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
+https://github.com/GroceriStar/static-data
 
-## Preview
+https://github.com/GroceriStar/sd
 
-https://gatsby-stellar.surge.sh/
+https://github.com/GroceriStar/groceristar-fetch
 
-## Installation
+https://github.com/GroceriStar/fetch2
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br>
-`gatsby new gatsby-starter-stellar https://github.com/codebushi/gatsby-starter-stellar`
+https://github.com/GroceriStar/fetch-constants
 
-Run `gatsby develop` in the terminal to start the dev site.
+https://github.com/GroceriStar/static-food-data-documentation
