@@ -164,3 +164,16 @@ set of constants that we'll use: https://github.com/GroceriStar/fetch-constants
 
 Explore https://blog.usejournal.com/structurae-data-structures-for-high-performance-javascript-9b7da4c73f8
 https://github.com/zandaqo/structurae
+
+
+
+
+---
+
+
+
+
+https://github.com/0x80/yurnalist
+
+
+https://www.google.com/search?q=machine+learning+duplicate+detection
