@@ -17,3 +17,5 @@ https://github.com/GroceriStar/fetch2
 https://github.com/GroceriStar/fetch-constants
 
 https://github.com/GroceriStar/static-food-data-documentation
+
+https://github.com/GroceriStar/creative/tree/master/fetch-examples
